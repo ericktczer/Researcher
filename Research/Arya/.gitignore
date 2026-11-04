@@ -1,0 +1,57 @@
+# Sources: copyrighted files stay out of git
+# A PDF is ignored wherever it sits, so one filed outside Sources/ by mistake is never pushed.
+*.pdf
+Sources/**/*.epub
+Sources/**/*.docx
+Sources/**/*.pptx
+Sources/**/*.xlsx
+Sources/**/*.zip
+Sources/**/*.png
+Sources/**/*.jpg
+Sources/**/*.jpeg
+
+# Agent tooling: per-machine copies written by apm install
+.claude/
+.agents/
+.codex/
+.cursor/
+# The copilot target writes inside .github/ - only what APM puts there is ignored, so a workflow
+# committed there later still shows up.
+.github/skills/
+.github/prompts/
+.github/agents/
+.github/instructions/
+.github/copilot-instructions.md
+.gemini/
+.opencode/
+.windsurf/
+apm_modules/
+apm.lock.yaml
+.mcp.json
+
+# Secrets: a key kept in a .env file, or a licence, stays on this machine and never reaches a push
+.env
+.env.*
+*.env
+.kaxanuk_license
+CLAUDE.local.md
+*.duckdb
+
+# Personal and daily: the briefs and the holdings stay on this machine
+Briefs/
+Portfolio/
+
+# Regenerable: extracts and Python caches
+Extracts/
+__pycache__/
+.venv/
+.ruff_cache/
+.pytest_cache/
+
+# IDE and OS
+.idea/
+.vscode/
+.obsidian/
+.DS_Store
+Thumbs.db
+desktop.ini
