@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "ea29676fa5f9a4d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cd6f2e8d7866268",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e3c128c9cd360ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arya/Knowledge/INDEX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INDEX"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b29a90195d2ed6ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "21b4b488541c9be7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f448a4aa5d4e2ee8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "748adf3fd1218037",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "4fc11558fcd47dc3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22875b8d4b8af8a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b84e5467f2a73cdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39ed8a26c72e800a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arya/Knowledge/INDEX.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "a4df7fa1a2857516",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arya/Knowledge/INDEX.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "afb3b7ef72d983c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "67d9300f9a4f9465",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "85fb476f739f1125",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Arya/Knowledge/INDEX.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "f448a4aa5d4e2ee8",
+  "lastOpenFiles": [
+    "golden-flow/Universe/universe_marimo.py",
+    "golden-flow/Universe/seed.py",
+    "golden-flow/Universe/Investable_Universe.csv",
+    "golden-flow/Universe",
+    "golden-flow/SETUP.md",
+    "golden-flow/RESULTS.md",
+    "golden-flow/README.md",
+    "golden-flow/pyproject.toml",
+    "golden-flow/Paper_Trading/Paper_Trading_1/Data/Refinery/custom_calculations.py",
+    "golden-flow/Paper_Trading/Paper_Trading_1/Universe/Investable_Universe.csv",
+    "golden-flow/Paper_Trading/Paper_Trading_1/Experiments/securities_panel.py",
+    "golden-flow/Paper_Trading/Paper_Trading_1/Experiments/portfolio_construction.py",
+    "golden-flow/Paper_Trading/Paper_Trading_1/Experiments/backtest_engine.py",
+    "golden-flow/Paper_Trading/Paper_Trading_1/Data/time_series.py",
+    "golden-flow/Paper_Trading/BITACORA.md",
+    "golden-flow/OBJECTIVE.md",
+    "golden-flow/Experiments/Experiment_1/JOURNAL_1.md",
+    "golden-flow/Experiments/Experiment_1/FINDINGS_1.md",
+    "golden-flow/Experiments/Experiment_1/BLUEPRINT_1.md",
+    "golden-flow/CLAUDE.md",
+    "golden-flow/CHANGELOG.md",
+    "golden-flow/Bibliotheca/Papers/Sullivan_Timmermann_White_1999_Data_Snooping_Technical_Trading_Rules.md",
+    "golden-flow/Bibliotheca/Papers/Shumway_1997_The_Delisting_Bias_In_CRSP_Data.md",
+    "golden-flow/Bibliotheca/Papers/NovyMarx_Velikov_2016_A_Taxonomy_Of_Anomalies_And_Their_Trading_Costs.md",
+    "golden-flow/Bibliotheca/Papers/Moskowitz_Ooi_Pedersen_2012_Time_Series_Momentum.md",
+    "golden-flow/Bibliotheca/Books/Paleologo_2021_Advanced_Portfolio_Management/INDEX.md",
+    "golden-flow/Bibliotheca/Papers/Faber_2007_Quantitative_Approach_To_Tactical_Asset_Allocation.md",
+    "golden-flow/Bibliotheca/Papers/Datar_Naik_Radcliffe_1998_Liquidity_And_Stock_Returns.md",
+    "golden-flow/Bibliotheca/Papers/Daniel_Moskowitz_2016_Momentum_Crashes.md",
+    "golden-flow/Bibliotheca/Papers/Brown_Goetzmann_Ibbotson_Ross_1992_Survivorship_Bias_In_Performance_Studies.md",
+    "golden-flow/Bibliotheca/Papers/Bailey_LopezDePrado_2014_The_Deflated_Sharpe_Ratio.md",
+    "golden-flow/Bibliotheca/Papers/Bailey_Borwein_LopezDePrado_Zhu_2014_Pseudo_Mathematics_And_Financial_Charlatanism.md",
+    "golden-flow/Bibliotheca/Papers/Asness_Moskowitz_Pedersen_2013_Value_And_Momentum_Everywhere.md",
+    "golden-flow/Bibliotheca/Papers/Amihud_2002_Illiquidity_And_Stock_Returns.md",
+    "golden-flow/Bibliotheca/LOG.md",
+    "golden-flow/Bibliotheca/BIBLIOGRAPHY.md"
+  ]
+}
